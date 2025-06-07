@@ -4,7 +4,7 @@ This project applies **Latent Dirichlet Allocation (LDA)** and **K-Means Cluster
 
 ---
 
-![Project UI](https://github.com/raushankumar620/code-comment-generator/blob/main/output.png)
+![Project UI](https://github.com/raushankumar620/Celebal-Weak-1st-Task/blob/main/output.png)
 
 ## 🚀 Objective
 

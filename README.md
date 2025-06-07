@@ -4,6 +4,8 @@ This project applies **Latent Dirichlet Allocation (LDA)** and **K-Means Cluster
 
 ---
 
+![Project UI](https://github.com/raushankumar620/code-comment-generator/blob/main/Screenshot%202025-03-12%20154557.png)
+
 ## 🚀 Objective
 
 > To explore unsupervised machine learning techniques for topic modeling and clustering on large-scale text data.

@@ -1,0 +1,5 @@
+scikit-learn
+nltk
+matplotlib
+wordcloud
+pyLDAvis

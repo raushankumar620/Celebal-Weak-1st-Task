@@ -3,6 +3,7 @@
 This project applies **Latent Dirichlet Allocation (LDA)** and **K-Means Clustering** to the classic **20 Newsgroups** dataset for identifying hidden topics and grouping similar documents in large text corpora.
 
 ---
+## OutPut Image
 
 ![Project UI](https://github.com/raushankumar620/Celebal-Weak-1st-Task/blob/main/output.png)
 
